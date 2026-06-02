@@ -1,4 +1,4 @@
-# Inlämningsuppgfit 2 
+# Inlämningsuppgift 2
 ## Storypoints - skala 
 
 `0,5 · 1 · 2 · 3 · 5 · 8`
@@ -77,3 +77,6 @@ Särskilt mycket tid har gått åt till att få artiklarna att fungera smidigt i
 
 ### AI:
 Ai har varit värdefullt för ideér och felsökning samt att det med ai har det varit möjligt att utforska olika strukturer men också att förstå konsekvener av att flytta element. När jag har testat felsökning med olika AI-verktyg har jag fått olika förslag och lösningar, som ibland bara gjort saker i koden sämre och jag har behövt analysera och teta mycket själv.
+
+### Resultat:
+![Ernst-webbsida](images/Ernst_webbsida.jpeg)
